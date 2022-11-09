@@ -11,8 +11,8 @@
 | pos         | The position of all candidates (list)                   |
 | score       | The score of all candidates (list)                      |
 | dim         | Dimension                                               |
-| gbest       | The position of the global best candidate               |
-| gbest_pos   | The score of the global best candidate (list)           |
+| gbest       | The score of the global best candidate               |
+| gbest_pos   | The position of the global best candidate (list)           |
 | best_score  | The best score of the iteration                         |
 | best_pos    | The position of the best score of the iteration (list)  |
 | worst_score | The worst score of the iteration                        |
